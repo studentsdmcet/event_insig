@@ -17,4 +17,4 @@ This repository contains the complete codebase for the **Events Page** of the In
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Events_Insignia.git
+  
